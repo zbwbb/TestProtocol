@@ -1,0 +1,16 @@
+PODS:
+  - TestProtocol (0.1.0)
+
+DEPENDENCIES:
+  - TestProtocol (from `../`)
+
+EXTERNAL SOURCES:
+  TestProtocol:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestProtocol: 8fe31c082141664fe0b6ce5892404f2860f5d6da
+
+PODFILE CHECKSUM: 8139c936fa062ec63be1693548178d139f40003a
+
+COCOAPODS: 1.7.2

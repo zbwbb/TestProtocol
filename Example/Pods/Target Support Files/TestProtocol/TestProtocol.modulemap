@@ -1,0 +1,6 @@
+framework module TestProtocol {
+  umbrella header "TestProtocol-umbrella.h"
+
+  export *
+  module * { export * }
+}
